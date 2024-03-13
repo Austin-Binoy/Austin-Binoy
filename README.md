@@ -1,14 +1,15 @@
-# 💫 Hi There!
+#💫 Hi There!
 
 - 👋 Hi, I’m Austin Binoy
 - 👀 I’m interested in UX/UI based projects :)
 - 🌱 I’m currently in 2nd year of Computer Science
 - 📫 How to reach me: austin06binoy@gmail.com || 0894855606
 
-- 
+#🖥️ Tech Skills: 
+[![My Skills](https://skillicons.dev/icons?i=java,postgres,html,css,javascript,c,vscode,linux,git,eclipse,git,autocad&perline=6)](https://skillicons.dev)
 
 
-# Check out my Stats:
+#Check out my Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-Binoy&layout=donut&theme=radical)](https://github.com/Austin-Binoy/github-readme-stats)
 
