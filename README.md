@@ -16,7 +16,7 @@
 - 📫 How to reach me: austin06binoy@gmail.com || 0894855606
 
 # 🖥️ Tech Skills: 
-[![My Skills](https://skillicons.dev/icons?i=java,postgres,html,css,javascript,c,vscode,linux,git,eclipse,git,autocad)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,postgres,html,css,javascript,c,vscode,linux,git,eclipse,autocad)](https://skillicons.dev)
 
 
 # Check out my Stats:
