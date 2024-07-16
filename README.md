@@ -14,12 +14,15 @@
 # 💫 Hi There!
 
 - 👋 Hi, I’m Austin Binoy, a student with a passion for Front End
+- 
 - 👀 I’m interested in UX/UI based projects :)
+- 
 - 🌱 I’m currently in 2nd year of Computer Science
+- 
 - 📫 How to reach me: austin06binoy@gmail.com || 0894855606
 
 # 🖥️ Tech Skills: 
-[![My Skills](https://skillicons.dev/icons?i=java,postgres,html,css,javascript,c,vscode,linux,git,eclipse,autocad)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,postgres,html,css,javascript,mongodb,c,vscode,linux,git,eclipse,autocad)](https://skillicons.dev)
 
 
 
