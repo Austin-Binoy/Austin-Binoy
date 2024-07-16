@@ -1,5 +1,5 @@
 <div id="header" align="center">
- ![](1asyzovvrn8a1(1).gif)
+ ![](github.gif)
   
   <div id="badges">
       <a href="https://www.linkedin.com/in/austin-binoy-cs/">
