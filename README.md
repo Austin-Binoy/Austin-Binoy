@@ -1,11 +1,13 @@
+![github](https://github.com/user-attachments/assets/125994c1-72af-43e6-904b-23a97a319c3f)
+
+
 <div id="header" align="center">
- ![](github.gif)
-  
   <div id="badges">
       <a href="https://www.linkedin.com/in/austin-binoy-cs/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </div>
 </div>
+
 
 
 # 💫 Hi There!
