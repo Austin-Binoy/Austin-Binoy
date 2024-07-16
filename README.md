@@ -1,4 +1,4 @@
-![github](https://github.com/user-attachments/assets/125994c1-72af-43e6-904b-23a97a319c3f)
+![github](https://github.com/Austin-Binoy/github.gif)
 
 
 <div id="header" align="center">
