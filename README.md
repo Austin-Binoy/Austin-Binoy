@@ -19,10 +19,6 @@
 [![My Skills](https://skillicons.dev/icons?i=java,postgres,html,css,javascript,c,vscode,linux,git,eclipse,autocad)](https://skillicons.dev)
 
 
-# Check out my Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Austin-Binoy&layout=donut&theme=radical)](https://github.com/Austin-Binoy/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=austin-binoy&theme=radical)](https://git.io/streak-stats)
 
 <!---
 Austin-Binoy/Austin-Binoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
