@@ -17,7 +17,7 @@
 - 
 - 👀 I’m interested in UX/UI based projects :)
 - 
-- 🌱 I’m currently in 2nd year of Computer Science
+- 🌱 I’m currently in 3rd year of Computer Science
 - 
 - 📫 How to reach me: austin06binoy@gmail.com || 0894855606
 
