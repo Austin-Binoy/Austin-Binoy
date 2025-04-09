@@ -13,7 +13,7 @@
 
 # 💫 Hi There!
 
-- 👋 Hi, I’m Austin Binoy, a student with a passion for Front End
+- 👋 Hi, I’m Austin Binoy
 - 
 - 👀 I’m interested in UX/UI based projects :)
 - 
