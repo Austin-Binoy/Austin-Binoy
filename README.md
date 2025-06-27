@@ -15,7 +15,7 @@
 
 - 👋 Hi, I’m Austin Binoy
 - 
-- 👀 I’m interested in UX/UI based projects :)
+- 👀 I’m interested in Cloud :)
 - 
 - 🌱 I’m currently in 3rd year of Computer Science
 - 
