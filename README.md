@@ -15,9 +15,9 @@
 
 - 👋 Hi, I’m Austin Binoy
 - 
-- 👀 I’m interested in Cloud :)
+- 👀 I’m interested in Cloud & Automation:)
 - 
-- 🌱 I’m currently in 3rd year of Computer Science
+- 🌱 I’m currently in 4th year of Computer Science
 - 
 - 📫 How to reach me: austin06binoy@gmail.com || 0894855606
 
@@ -33,4 +33,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=austin-binoy&label=Profile%20Views&color=0&icon=7&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Austin-Binoy&label=Profile%20Views&color=0&icon=7&pretty=true)](https://visitcount.itsvg.in)
